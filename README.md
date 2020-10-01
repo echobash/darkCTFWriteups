@@ -1,4 +1,4 @@
-# darkCTFWriteups
+# DarkCTF Writeups 👋
 This repo contains writeups of all my challs in the darkCTF.
 
 | Challenge | Writeup |
