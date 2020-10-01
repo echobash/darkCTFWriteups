@@ -1,4 +1,5 @@
 # Knot65
+![Knot65](https://github.com/echobash/darkCTFWriteups/blob/main/knot65/knot65.png)
 >For this challenge,a zip file and a paragraph was given.
 >When you grep the paragraph for "password", it gives you the hint "it is in three parts,join all the three parts and you'll get the password to the zip"
 >Now it is clear that the password of the zip file is broken into three parts and then hidden in this long paragraph.
