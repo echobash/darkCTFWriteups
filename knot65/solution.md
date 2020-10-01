@@ -1,6 +1,6 @@
 # Knot65
 ![Knot65](https://github.com/echobash/darkCTFWriteups/blob/main/knot65/knot65.png)
->For this challenge,a zip file and a paragraph was given.
+>For this challenge,a [zip](https://github.com/echobash/darkCTFWriteups/blob/main/knot65/flag.zip) file and a [paragraph](https://github.com/echobash/darkCTFWriteups/blob/main/knot65/chall.txt) were given.
 >When you grep the paragraph for "password", it gives you the hint "it is in three parts,join all the three parts and you'll get the password to the zip"
 >Now it is clear that the password of the zip file is broken into three parts and then hidden in this long paragraph.
 <br><br>
@@ -34,7 +34,7 @@ goodrainswithshining
 > If you analyze the "ord" of all the characters,there are some outlier values in range of 65000 which are these homoglyph unicode characters only.
 > So we can get the third part by running script for all the characters whose decimal value is greater than 65000.
 
-[Homoglyph Script](https://github.com/echobash/darkCTFWriteups/blob/main/knot65/homoglyph.py)
+[Homoglyph unicode Script](https://github.com/echobash/darkCTFWriteups/blob/main/knot65/homoglyph.py)
 ```python
 f = open("chall.txt","r")
 f = f.read()
