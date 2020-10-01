@@ -1,6 +1,5 @@
 ## Chall:- Pipe Rhyme
-![Pipe Rhyme](https://raw.githubusercontent.com/echobash/darkCTFWriteups/main/pipeRhyme/pipeRhyme.png?token=AEEH7C4LBLMI2ORT2PLVEGK7OYTNI)
-
+![Pipe Rhyme](https://raw.githubusercontent.com/echobash/darkCTFWriteups/main/pipeRhyme/pipeRhyme.png?token=AEEH7C6D4DK75G2V4VN3JHC7OYU2G)
 Chall Desc:- Wow you are so special.<br>
 N=0x3b7c97ceb5f01f8d2095578d561cad0f22bf0e9c94eb35a9c41028247a201a6db95f<br>
 e=0x10001<br>
