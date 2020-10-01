@@ -9,4 +9,4 @@
 | ------ |
 | [Chall](https://github.com/echobash/darkCTFWriteups/blob/main/minesweeper/Minesweeper)|
 | [Solution](https://github.com/echobash/darkCTFWriteups/blob/main/minesweeper/solution.py) |
-[Flag](https://github.com/echobash/darkCTFWriteups/blob/main/minesweeper/solution.py) |
+[Flag](https://github.com/echobash/darkCTFWriteups/blob/main/minesweeper/flag.txt) |
